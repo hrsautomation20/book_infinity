@@ -10,9 +10,12 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hardik Rola",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.15.0"
   }
 }
