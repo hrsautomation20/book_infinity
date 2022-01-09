@@ -5,9 +5,8 @@
 3. [Usage Tips](#usage)
 4. [Features](#feature)
 5. [Install Command](#command)
-6. [Credits](#credits)
-7. [Licenses](#licenses)
-8. [Questions and Contributing](#qnacontri)
+6. [Licenses](#licenses)
+7. [Questions and Contributing](#qnacontri)
 
 ---
 
@@ -23,7 +22,7 @@
  Password: `Password`
 
 
-<a name="web-address"></a>
+<a name="webaddress"></a>
 ## How to Get There
 
 #### Open your favorite web browser and enter the following web address to start using the website.
@@ -48,7 +47,7 @@ If you want to run locally perform the following:
 4. run the app with `npm run develop`
 5. Open browser and type `http://localhost:3000/` 
 
-<a name="features"></a>
+<a name="feature"></a>
 ## Features
 
 ### Application is both desktop and mobile friendly.
@@ -75,7 +74,7 @@ If you want to run locally perform the following:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<a name="commandInstall"></a>
+<a name="command"></a>
 ## Install Command
 
 ### npm install command will install javascript dependencies
